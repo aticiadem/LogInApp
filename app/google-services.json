@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "820217072450",
+    "firebase_url": "https://android-denemeleri-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "android-denemeleri",
+    "storage_bucket": "android-denemeleri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820217072450:android:a62491cbda6946d02056db",
+        "android_client_info": {
+          "package_name": "com.example.loginscreenfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820217072450-su8ii9rjg4uin9sebvl5gi2nm5bggvo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyConNPFR1FSXSGVv3xo1vMp9VEBoB-2HL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820217072450-su8ii9rjg4uin9sebvl5gi2nm5bggvo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820217072450:android:cdb77c45c03893762056db",
+        "android_client_info": {
+          "package_name": "com.example.loginscreenfirebase.fragments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820217072450-su8ii9rjg4uin9sebvl5gi2nm5bggvo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyConNPFR1FSXSGVv3xo1vMp9VEBoB-2HL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820217072450-su8ii9rjg4uin9sebvl5gi2nm5bggvo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
